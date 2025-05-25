@@ -1,1 +1,4 @@
-# Naz-Dashboard
+Project Summary
+This project involves the development of a personal dashboard website consisting of two main components: a Weather Dashboard and a COVID-19 Health Dashboard. The website was built using HTML, CSS, JavaScript, Bootstrap 5, and Chart.js for data visualization. The objective is to retrieve and display real-time weather data and COVID-19 statistics using public APIs and present them in an interactive and user-friendly format.
+The homepage showcases a profile section with personal information, followed by two dashboard preview cards for easy navigation. Each dashboard provides search functionality where users can input a city or country to view the latest data. The weather section uses the OpenWeatherMap API to fetch temperature, humidity, and weather conditions, while the health section retrieves COVID-19 data from the disease.sh API.
+The entire project is hosted on GitHub Pages, and the source code is maintained in a GitHub repository with proper commit history, demonstrating version control and iterative development.
